@@ -1,0 +1,13 @@
+.page-header {
+    background-image: url(../../images/portada.png);
+}
+
+@media (max-width: 768px) {
+    .page-header {
+        background-image: url(../../images/portada-movil.png) !important;
+        background-size: contain !important;
+        background-position: top center !important;
+        background-repeat: no-repeat !important;
+        background-color: #fece00;
+    }
+}
