@@ -11,3 +11,36 @@
         background-color: #fece00;
     }
 }
+
+.navbar-brand {
+    font-size: 1.5em;
+}
+
+.subcat-titulo {
+    margin-right: 1em;
+    display: inline-block;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.subcat-titulo p {
+    display: inline;
+    background-color: orange;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.subcat-titulo img {
+    display: inline;
+    max-height: 30px;
+}
+.subcat-flecha {
+    background-color: white;
+    color: orange;
+    margin-right: 1em;
+    margin-left: 0.5em;
+}
+.footer .nav-link {
+    color: black !important;
+}
+.footer .copyright {
+    color: black !important;
+}
